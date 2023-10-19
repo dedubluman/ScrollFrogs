@@ -1,0 +1,24 @@
+{
+  "name": "Scroll Pepe #26",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Frog Mission",
+      "value": "Ninja Frog"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Dreamweaver"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Firefly Lantern Crossbow"
+    }
+  ],
+  "description": "Category Rank = 3",
+  "image": "https://raw.githubusercontent.com/dedubluman/frogy1/main/26.png",
+  "external_url": "https://twitter.com/Perma_fr0st"
+}
