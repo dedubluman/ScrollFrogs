@@ -1,0 +1,24 @@
+{
+  "name": "Scroll Pepe #942",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Frog Mission",
+      "value": "Cowboy/Cowgirl Frog"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Time Manipulation"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Cattail Nunchaku"
+    }
+  ],
+  "description": "Category Rank = 3",
+  "image": "https://raw.githubusercontent.com/dedubluman/frogy1/main/942.png",
+  "external_url": "https://twitter.com/Perma_fr0st"
+}
