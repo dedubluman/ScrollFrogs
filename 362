@@ -1,0 +1,24 @@
+{
+  "name": "Scroll Pepe #362",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Frog Mission",
+      "value": "Scientist Frog"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Poisonous Touch"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Croc Jaws Axe"
+    }
+  ],
+  "description": "Category Rank = 4",
+  "image": "https://raw.githubusercontent.com/dedubluman/frogy1/main/362.png",
+  "external_url": "https://twitter.com/Perma_fr0st"
+}

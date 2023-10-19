@@ -1,0 +1,24 @@
+{
+  "name": "Scroll Pepe #345",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Frog Mission",
+      "value": "Knight Frog"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Telepathy"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Thorny Lilly"
+    }
+  ],
+  "description": "Category Rank = 4",
+  "image": "https://raw.githubusercontent.com/dedubluman/frogy1/main/345.png",
+  "external_url": "https://twitter.com/Perma_fr0st"
+}
