@@ -1,0 +1,24 @@
+{
+  "name": "Scroll Pepe #707",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "King"
+    },
+    {
+      "trait_type": "Frog Mission",
+      "value": "Space Explorer Frog"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Tongue Whip"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Tongue Blade"
+    }
+  ],
+  "description": "Category Rank = 1",
+  "image": "https://raw.githubusercontent.com/dedubluman/frogy1/main/707.png",
+  "external_url": "https://twitter.com/Perma_fr0st"
+}

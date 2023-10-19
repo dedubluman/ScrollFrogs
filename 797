@@ -1,0 +1,24 @@
+{
+  "name": "Scroll Pepe #797",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Frog Mission",
+      "value": "Gladiator Frog"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Teleportation"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Frog's Leap Bow"
+    }
+  ],
+  "description": "Category Rank = 3",
+  "image": "https://raw.githubusercontent.com/dedubluman/frogy1/main/797.png",
+  "external_url": "https://twitter.com/Perma_fr0st"
+}
