@@ -1,0 +1,24 @@
+{
+  "name": "Scroll Pepe #626",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "King"
+    },
+    {
+      "trait_type": "Frog Mission",
+      "value": "Steampunk Frog"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Camouflage Mastery"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Lily Pad Shield"
+    }
+  ],
+  "description": "Category Rank = 1",
+  "image": "https://raw.githubusercontent.com/dedubluman/frogy1/main/626.png",
+  "external_url": "https://twitter.com/Perma_fr0st"
+}
